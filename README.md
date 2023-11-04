@@ -7,6 +7,7 @@
 - Incident Postmortem(https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>Certifications</h2>
+- Microsoft Certified: Security, Compliance, and Identity Fundamentals.
   
  
 <h2>📺 Popular YouTube Videos</h2>
