@@ -1,7 +1,12 @@
 <h1>Hi, I'm Wisdom! </h1>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-Responding to Malware Attacks In a SOC (https://github.com/joshmadakor1/Algorithms-Practice)
+Responding to Malware Attacks In a SOC(https://github.com/joshmadakor1/Algorithms-Practice)
+Analyzing Malware Attacks(https://github.com/joshmadakor1/Algorithms-Practice)
+Mitigate the Malware Attacks(https://github.com/joshmadakor1/Algorithms-Practice)
+Incident Postmortem(https://github.com/joshmadakor1/Algorithms-Practice)
+
+<h2>Certifications</h2>
   
  
 <h2>📺 Popular YouTube Videos</h2>
