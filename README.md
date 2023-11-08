@@ -1,7 +1,8 @@
 <h1>Hi, I'm Wisdom! </h1>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- Responding to Malware Attacks In a SOC(https://github.com/Wisemanwiz/Task-1-Affected-infrastructure/tree/main)<br>
+- <b>Responding to Malware Attacks In a SOC</b>
+- [Analyzing Affected Infrastructure](https://github.com/Wisemanwiz/Task-1-Affected-infrastructure/tree/main)
 - Analyzing Malware Attacks(https://github.com/joshmadakor1/Algorithms-Practice)<br>
 - Mitigate the Malware Attacks(https://github.com/joshmadakor1/Algorithms-Practice)<br>
 - Incident Postmortem(https://github.com/joshmadakor1/Algorithms-Practice)
