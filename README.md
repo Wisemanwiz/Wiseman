@@ -3,7 +3,8 @@
 
 - <b>Responding to Malware Attacks In a SOC</b>
 - [Analyzing Affected Infrastructure](https://github.com/Wisemanwiz/Task-1-Affected-infrastructure/tree/main)
-- Analyzing Malware Attacks(https://github.com/joshmadakor1/Algorithms-Practice)<br>
+- <b> Analyzing Malware Attacks</b>
+- [Analyzing Firewall Logs](https://github.com/Wisemanwiz/Task-2-Analyzing-the-Malware-Attack)<br>
 - Mitigate the Malware Attacks(https://github.com/joshmadakor1/Algorithms-Practice)<br>
 - Incident Postmortem(https://github.com/joshmadakor1/Algorithms-Practice)
 
