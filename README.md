@@ -5,7 +5,8 @@
 - [Analyzing Affected Infrastructure](https://github.com/Wisemanwiz/Task-1-Affected-infrastructure/tree/main)
 - <b> Analyzing Malware Attacks</b>
 - [Analyzing Firewall Logs](https://github.com/Wisemanwiz/Task-2-Analyzing-the-Malware-Attack)<br>
-- Mitigate the Malware Attacks(https://github.com/joshmadakor1/Algorithms-Practice)<br>
+- <b> Mitigate the Malware Attacks</b>
+- [Using Python to Create Firewall Rule](https://github.com/Wisemanwiz/Task-3-Mitigate-the-Malware-Attack)<br>
 - Incident Postmortem(https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>Certifications</h2>
