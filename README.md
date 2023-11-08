@@ -1,5 +1,5 @@
 <h1>Hi, I'm Wisdom! </h1>
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity Internship:</h2>
 
 - <b>Responding to Malware Attacks In a SOC</b>
 - [Analyzing Affected Infrastructure](https://github.com/Wisemanwiz/Task-1-Affected-infrastructure/tree/main)
