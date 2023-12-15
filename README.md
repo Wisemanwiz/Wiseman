@@ -15,7 +15,8 @@
   
  
 <h2>Cybersecuriy/IT Project Lab Work</h2>
-Creating an Access Point with a Raspberrypi
+- <b>Creating an Access Point With a Raspberrypi</b>
+- [Raspberrypi AP Setup](https://github.com/Wisemanwiz/Raspberryp-AP-Setup)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
