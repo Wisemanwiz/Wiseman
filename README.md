@@ -15,4 +15,4 @@
   
  <h2>Cybersecuriy/IT Project Lab Work</h2>
 - <b> Creating an Access Point With a Raspberrypi</b><br/>
-- [Link to README](https://https://github.com/Wisemanwiz/Raspberryp-AP-Setup)
+- [Raspberrypi Access Point Setup](https://github.com/Wisemanwiz/Raspberryp-AP-Setup)
