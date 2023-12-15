@@ -9,10 +9,9 @@
 - [Using Python to Create Firewall Rule](https://github.com/Wisemanwiz/Task-3-Mitigate-the-Malware-Attack)<br>
 - <b>Incident Postmortem</b>
 - [Incident PostMortem Of Malware Attack](https://github.com/Wisemanwiz/Task-4-Incident-Postmortemm)
-
+  <h2>Cybersecuriy/IT Project Lab Work</h2>
+- <b> Creating an Access Point With a Raspberrypi</b><br/>
+ [Raspberrypi AP Setup](https://github.com/Wisemanwiz/Raspberryp-AP-Setup)
 <h2>Certifications</h2>
 - Google Cybersecurity Professional Certificate
   
- <h2>Cybersecuriy/IT Project Lab Work</h2>
-- <b> Creating an Access Point With a Raspberrypi</b><br/>
-- [Raspberrypi Access Point Setup](https://github.com/Wisemanwiz/Raspberryp-AP-Setup)<br/>
