@@ -15,4 +15,4 @@
   
  <h2>Cybersecuriy/IT Project Lab Work</h2>
 - <b> Creating an Access Point With a Raspberrypi</b><br/>
--[Analyzing Affected Infrastructure](https://github.com/Wisemanwiz/Task-1-Affected-infrastructure/tree/main)
+- [Link to README](https://https://github.com/Wisemanwiz/Raspberryp-AP-Setup)
