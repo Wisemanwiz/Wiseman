@@ -12,7 +12,8 @@
   <h2>Cybersecuriy/IT Project Lab Work</h2>
 - <b> Creating an Access Point With a Raspberrypi</b><br/>
  [Raspberrypi AP Setup](https://github.com/Wisemanwiz/Raspberryp-AP-Setup)
-  [Turning Raspberrypi Into a Router](https://github.com/Wisemanwiz/Raspberryp-AP-Setup)
+- <b> Turning Raspberrypi Into a Router</b><br/>
+  [Raspberrypi Router Extension](https://github.com/Wisemanwiz/Raspberryp-AP-Setup)
 <h2>Certifications</h2>
 - Google Cybersecurity Professional Certificate
   
